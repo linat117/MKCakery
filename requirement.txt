@@ -1,0 +1,44 @@
+     Home
+-home-heading
+-home-description
+-home-banner
+     About
+-about-heading
+-about-description
+-about-image
+    products
+-cupcakes
+-cakes 
+-cookies
+    Service
+-Service-heading
+-Service-description
+-service-image
+
+   instructors
+-instructor-name
+-instructor-description
+-instructor-image
+-instructor-facebook
+-instructor-twitter
+-instructor-instagram
+   testimonial
+   -client-name
+   -client-profession
+   -description
+   -client-image
+
+   subscription
+   -subscription-email
+
+
+   company
+   company-name
+   -company-address
+   -company-email
+   -company-phone
+   -companytwitter
+   -company-facebook
+   -company-youtube
+   -company-linkedin
+   -gallery
